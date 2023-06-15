@@ -12,10 +12,10 @@ Python 3.x
 Scikit-learn
 Pandas
 NumPy
-Usage
-After installing the required dependencies, you can use the provided code to predict future sales of a product. Follow these steps:
 
-# Prepare the input data in the required format (see Data section for more details).
+# Usage
+After installing the required dependencies, you can use the provided code to predict future sales of a product. Follow these steps:
+Prepare the input data in the required format (see Data section for more details).
 Load the dataset and preprocess the data if necessary.
 Choose a machine learning algorithm from the available options.
 Train the model using historical sales data.
